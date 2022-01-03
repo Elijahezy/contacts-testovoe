@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Илья",
+      "phone": "+7 926 789 11 25",
+      "email": "",
+      "id": 1
+    },
+    {
+      "name": "Даниэль",
+      "phone": "+7 926 789 11 25",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "Саша",
+      "phone": "",
+      "email": "",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 0.7874568588791417,
+      "login": "Илья",
+      "password": "123"
+    }
+  ]
+}
